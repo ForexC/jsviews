@@ -31,12 +31,12 @@
     "ecosystem:jquery"
   ],
   "devDependencies": {
-    "browserify": "^11.0.1",
+    "browserify": "^13.1.1",
     "glob-stream": "^5.0.0",
     "gulp": "^3.9.0",
-    "jquery": "^2.1.4",
+    "jquery": "^3.1.1",
     "jsrender": "^0.9.81",
-    "qunit": "^0.7.6"
+    "qunit": "^0.9.1"
   },
   "dependencies": {}
 }
